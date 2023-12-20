@@ -45,7 +45,6 @@ class ApplePayButton extends PayButton {
           paymentConfigurationAsset,
           paymentConfiguration,
           onPaymentResult,
-          width,
           height,
           margin,
           onError,
